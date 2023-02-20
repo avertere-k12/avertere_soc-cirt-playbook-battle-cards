@@ -1,6 +1,6 @@
 ## A collection of Cyber Incident Response Playbook Battle Cards
 
-![img](images/GSPBC-1000.png)
+![img](images/AVPBC-1000.png)
 
 
 1. Playbook Battle Cards (PBC) are recipes for preparing and applying countermeasures against [cyber threats and attacks](https://en.wikipedia.org/wiki/Cyberwarfare)
