@@ -61,7 +61,7 @@
 
 **Resources:**
 
-*    Avertere SOC Incident Response Plan: https://github.com/avertere_k12/avertere_soc\_cybersecurity-incident-response-plan
+*    Avertere SOC Incident Response Plan: https://github.com/avertere-k12/avertere_soc\_cybersecurity-incident-response-plan
 *    IT Disaster Recovery Planning: https://www.ready.gov/it-disaster-recovery-plan
 *    Report Cybercrime: https://www.ic3.gov/Home/FAQ
 

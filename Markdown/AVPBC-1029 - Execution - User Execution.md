@@ -61,12 +61,12 @@
 
 1.  MITRE ATT&CK Mitigation M1021: https://attack.mitre.org/mitigations/M1021/
 2.  MITRE ATT&CK Mitigation M1038: https://attack.mitre.org/mitigations/M1038/
-3.  GSVSOC CIRT Playbook Battle Cards: https://github.com/avertere_k12/avertere_soc\_cirt-playbook-battle-cards
+3.  GSVSOC CIRT Playbook Battle Cards: https://github.com/avertere-k12/avertere_soc\_cirt-playbook-battle-cards
 4.  MITRE ATT&CK Technique T1204 Sub-technique 002: https://attack.mitre.org/techniques/T1204/002/
 
 **Resources:**
 
-*    Avertere SOC Incident Response Plan: https://github.com/avertere_k12/avertere_soc\_cybersecurity-incident-response-plan
+*    Avertere SOC Incident Response Plan: https://github.com/avertere-k12/avertere_soc\_cybersecurity-incident-response-plan
 *    IT Disaster Recovery Planning: https://www.ready.gov/it-disaster-recovery-plan
 *    Report Cybercrime: https://www.ic3.gov/Home/FAQ
 
